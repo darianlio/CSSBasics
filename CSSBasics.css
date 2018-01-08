@@ -64,5 +64,12 @@ font-weight
 line-height
 - basically line spacing like double space
 - line-height: 2;
+
+Box Model
+- Padding - distance between element and border
+- Margin - distance between elements 
+	- margin: top right bottom left;
+	- margin: 0 auto 0 auto;	
+- Border
 */
 
