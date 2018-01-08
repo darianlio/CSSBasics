@@ -51,5 +51,18 @@ id selector - select an element with a given id
 class selector - all elements within a given class
 				referred using .name
 
+
+cssfontstack.com
+
+font-size
+- px
+- em (dynamic)
+
+font-weight
+- range from 100 - 800 in increments of 100
+
+line-height
+- basically line spacing like double space
+- line-height: 2;
 */
 
