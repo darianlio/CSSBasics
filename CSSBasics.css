@@ -23,5 +23,26 @@ color: rgb(255,255,255);
 RGBA, rgb with alpha (transparency) channel. Ranges from 0.0-1.0
 color: rgba(11,99,150,1);
 color: rgba(11,99,150,0.5);
+
+Background for background color
+Color for text color
+
+background: blue;
+background: url("image");
+background-repeat: no-repeat;
+background-size: cover;
+
+Borders
+- has width
+- color
+- size
+border-color: purple;
+border-width: 5px;
+border-style: solid;
+OR
+border: 5px solid purple;
+
+CSS Selectors
+
 */
 

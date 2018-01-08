@@ -1,11 +1,25 @@
 h1 {
 	color:#FF003C;
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 5px solid purple;
 }
 
 h4 {
-	color: #D700FC;
+	background: rgb(255,100,80);
 }
 
 li {
 	color: #00E304;
+}
+
+body {
+	background: pink;
+}
+
+body {
+	background: url();
+	background-repeat: no-repeat;
+	background-size: cover;
 }
