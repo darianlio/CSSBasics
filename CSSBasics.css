@@ -4,4 +4,24 @@ selector {
 	property: value;
 	anotherProperty: value;
 }
+
+Colors in CSS
+- Built in Colors: colours.neilorangepeel.com;
+- Hexadecimal: #000000-#FFFFFF;
+- RGB Colours
+- Red: #FF0000;
+- Green: #00FF00;
+- Blue: #0000FF;
+
+Color Picker
+- www.colorpicker.com
+- photoshop
+
+rgb
+color: rgb(255,255,255);
+
+RGBA, rgb with alpha (transparency) channel. Ranges from 0.0-1.0
+color: rgba(11,99,150,1);
+color: rgba(11,99,150,0.5);
 */
+
