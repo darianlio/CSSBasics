@@ -43,6 +43,13 @@ OR
 border: 5px solid purple;
 
 CSS Selectors
+Basics: Elements, ID, Class;
+
+element selector - selects all instances of given element
+id selector - select an element with a given id
+				referred using #name
+class selector - all elements within a given class
+				referred using .name
 
 */
 
